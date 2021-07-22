@@ -5,7 +5,7 @@ Libraries:
   - requests
   - json
   - time
-  - from pprint import pprint
+  - pprint
 
 
 For weather API, I have chosen https://openweathermap.org/api.
